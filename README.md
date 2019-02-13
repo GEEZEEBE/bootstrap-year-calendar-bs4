@@ -1,7 +1,7 @@
-# bootstrap-year-calendar
+# bootstrap-year-calendar-bs4
+
 A fully customizable year calendar widget, now for Bootstrap 4 !
 You can find all details on the [official website](http://www.bootstrap-year-calendar.com/).
-
 
 ![alt tag](http://www.bootstrap-year-calendar.com/img/calendar.png)
 
@@ -12,10 +12,11 @@ This plugin requires the following libraries :
 - jQuery v1.8.0 or later
 
 ## Installation
+
 You can get the widget using the following methods:
-- From the [GitHub repository](https://github.com/Paul-DS/bootstrap-year-calendar/releases) or the [official website](http://www.bootstrap-year-calendar.com/#Download).
-- From the Node package manager, using the following command: `npm install bootstrap-year-calendar`
-- From Bower, using the following command: `bower install bootstrap-year-calendar`
+- From the [GitHub repository](https://github.com/anlambert/bootstrap-year-calendar-bs4/releases).
+- From the Node package manager, using the following command: `npm install bootstrap-year-calendar-bs4`
+- From the Yarn package manager, using the following command: `yarn install bootstrap-year-calendar-bs4`
 
 ## Usage
 
@@ -27,7 +28,7 @@ or
 ```
 $('.calendar').calendar(options)
 ```
-or with the `data-provide` html attribute 
+or with the `data-provide` html attribute
 ```
 <div data-provide="calendar"></div>
 ```
