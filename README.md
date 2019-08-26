@@ -1,9 +1,13 @@
-# bootstrap-year-calendar-bs4
+# DEPRECATED: bootstrap-year-calendar-bs4
 
 A fully customizable year calendar widget, now for Bootstrap 4 !
 You can find all details on the [official website](http://www.bootstrap-year-calendar.com/).
 
 ![alt tag](http://www.bootstrap-year-calendar.com/img/calendar.png)
+
+Please note that this package is now **deprecated** and will not be maintained.
+
+You should use [js-year-calendar](https://github.com/year-calendar/js-year-calendar) instead, a rewrite of the calendar by its original author dropping the Bootstrap and jQuery dependencies while offering the same features and look and feel.
 
 ## Requirements
 
